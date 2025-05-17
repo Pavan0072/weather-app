@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+
+@theme {
+    --color-ironman:#7fff00
+}
