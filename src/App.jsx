@@ -34,7 +34,7 @@ const App = () => {
   if (loading) return <h1>loading....</h1>;
   return (
     
-    <div className="h-dvh py-20 flex justify-center bg-amber-100 ">
+    <div className="h-dvh py-20 flex justify-center bg-amber-500 ">
 
       <div className=" w-2xl border-2 border-amber-600 flex bg-linear-to-t from-sky-400 to-indigo-400 rounded-4xl ">
       <div className=" ml-4 mr-4  flex flex-col  pt-2">
